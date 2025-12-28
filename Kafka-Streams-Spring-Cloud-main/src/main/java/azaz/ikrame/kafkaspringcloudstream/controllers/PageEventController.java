@@ -13,13 +13,13 @@ import org.apache.kafka.streams.state.QueryableStoreTypes;
 import org.apache.kafka.streams.state.ReadOnlyWindowStore;
 import org.springframework.http.MediaType;
 import reactor.core.publisher.Flux;
-
 import java.time.Duration;
 import java.time.Instant;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
+
 
 @RestController
 public class PageEventController {

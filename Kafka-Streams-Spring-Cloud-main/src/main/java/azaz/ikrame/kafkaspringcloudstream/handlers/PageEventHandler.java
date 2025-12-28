@@ -23,7 +23,7 @@ public class PageEventHandler {
         return pageEvent -> {
             System.out.println("******************");
             System.out.println(pageEvent.toString());
-            System.out.println("******************");
+            System.out.println("***************+***");
         };
     }
 
