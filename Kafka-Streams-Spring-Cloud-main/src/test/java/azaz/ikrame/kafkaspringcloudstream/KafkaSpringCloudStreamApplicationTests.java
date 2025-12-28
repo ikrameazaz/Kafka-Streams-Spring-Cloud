@@ -1,4 +1,4 @@
-package labrini.ouiam.kafkaspringcloudstream;
+package azaz.ikrame.kafkaspringcloudstream;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
